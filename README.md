@@ -1,2 +1,2 @@
-# laboratory
-Experimental space where Astrophysics and Naval Engineering meet Data Science. This 'Laboratory' serves as a sandbox for refining my skills in Python, SQL, and Machine Learning, showcasing my iterative approach to learning and problem-solving.
+# LABORATORY
+Data Science & AI Laboratory: Personal sandbox for continuous learning. Containing exercises, model prototyping, and technical documentation as I transition into the world of Data Science.
