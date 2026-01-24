@@ -1,0 +1,1 @@
+A centralized hub for my Data Science and AI learning journey. This repository documents my technical progress through the Harvard CS50AI certification, featuring experiments, code snippets, and exploratory data analysis.
