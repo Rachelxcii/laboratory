@@ -2,6 +2,7 @@
 -- Name: 000-advance-analyzing-unicorn-companies
 -- Problem: Top 3 Industries for Unicorns (DataCamp Project)
 -- Insight: Modular CTEs to isolate ranking logic from metric calculation.
+-- Technical focus: Advanced Joins & Nested Aggregations via CTEs
 -- Complexity: O(N log N) due to sorting in the Top Industries CTE (most expensive operation)
 -- Datacamp project link: https://app.datacamp.com/learn/projects/1531
 
