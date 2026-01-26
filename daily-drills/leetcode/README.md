@@ -1,2 +1,0 @@
-# LEETCODE
-## About Leetcode
