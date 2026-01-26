@@ -1,5 +1,16 @@
-A repository of daily solutions to coding challenges (HackerRank, LeetCode, or custom problems), and small daily scripts focused on mastering specific libraries (Pandas, NumPy, Scikit-learn) and algorithmic thinking.
-Focused on efficiency, clean code, and solving one small data-related problem every day.
+# DAILY DRILLS
 
-The name has the following structure:
-Number - Platform - Problems name
+## About Daily Drills
+
+A module of daily solutions to:
+- Coding challenges: HackerRank, LeetCode, or custom problems
+- Scripts focused on mastering specific libraries (Pandas, NumPy, Scikit-learn)
+- Algorithmic thinking
+
+This module is focused on efficiency, clean code, and solving one small data-related problem every day.
+
+Each problem name has the following structure: **Number - Platform - Problem name**
+
+## Content of Daily Drills
+
+- 
